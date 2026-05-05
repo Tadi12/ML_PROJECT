@@ -20,7 +20,7 @@ export default function Home() {
           <h1 className="mx-auto max-w-4xl font-display text-5xl font-extrabold tracking-tight text-slate-900 sm:text-7xl">
             Unlock Your Earning Potential with{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">
-              AI Predictions
+              Wollo SalaryPredictions
             </span>
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">

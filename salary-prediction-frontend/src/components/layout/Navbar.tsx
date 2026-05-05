@@ -7,8 +7,8 @@ export default function Navbar() {
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center text-white font-bold text-xl">
-                S
+              <div className="w-20 h-10 rounded-lg bg-blue-600 flex items-center justify-center text-white font-bold text-xl">
+                WOLLO
               </div>
               <span className="font-bold text-xl text-gray-900 hidden sm:block">SalaryPredictor</span>
             </Link>

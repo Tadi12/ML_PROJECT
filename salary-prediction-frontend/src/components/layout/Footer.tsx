@@ -4,10 +4,10 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center flex-col sm:flex-row">
           <div className="flex items-center gap-2 mb-4 sm:mb-0">
-            <span className="font-bold text-gray-900">SalaryPredictor</span>
+            <span className="font-bold text-gray-900">Wollo SalaryPredictor</span>
           </div>
           <p className="text-gray-500 text-sm text-center">
-            &copy; {new Date().getFullYear()} Salary Predictor System. All rights reserved.
+            &copy; {new Date().getFullYear()} Wollo Salary Predictor System. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 sm:mt-0">
             <a href="#" className="text-gray-400 hover:text-gray-500">
